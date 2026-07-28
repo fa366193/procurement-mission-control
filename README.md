@@ -4,7 +4,7 @@
 
 Procurement Mission Control is a transparent multi-agent research prototype for inventory exception review. It extends a shipped deterministic Procurement Heat Map Engine with specialized analytical roles, explicit disagreement, counterfactual simulation, and human-accountable disposition.
 
-[Launch the live prototype](https://procurement-mission-control.fsaguilar16.chatgpt.site) · [Read the lab notebook](https://decisionsystemslab.org/systems/procurement-heat-map)
+[Launch the live prototype](https://fa366193.github.io/procurement-mission-control/) · [Read the lab notebook](https://decisionsystemslab.org/systems/procurement-heat-map)
 
 ## Why it exists
 
