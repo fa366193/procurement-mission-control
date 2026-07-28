@@ -3,14 +3,11 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  root: ".",
+  root: "static",
   base: "/procurement-mission-control/",
-  publicDir: "public",
+  publicDir: "../public",
   build: {
-    outDir: "dist-static",
+    outDir: "../dist-static",
     emptyOutDir: true,
-    rollupOptions: {
-      input: "static/index.html",
-    },
   },
 });
